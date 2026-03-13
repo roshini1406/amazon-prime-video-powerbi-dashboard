@@ -21,7 +21,7 @@ The main objective of this project is to analyze Amazon Prime Video content and 
  📂 Files in this Repository
 - `Amazon Prime video.pbix` – Power BI dashboard file
 - `amazon_prime_titles.csv` – Dataset used for analysis
-- `.png` – Dashboard preview image
+- `Screenshot 2026-03-13 142814.png` – Dashboard preview image
 
 
  📚 Learning Outcome
